@@ -22,10 +22,10 @@ const Calculator = {
       return 1 + 3;
     },
     subtract: function(a,b) {
-      return 1 - 3
+      return 1 - 3;
     },
     multiply: function(a,b) {
-      return 1 * 3
+      return 1 * 3;
     },
     divide: function(a,b) {
       return 4 / 2;
